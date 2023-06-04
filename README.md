@@ -1,1 +1,1 @@
-# telegram-bot-backend
+# telegram-bot-airdrops-checker
